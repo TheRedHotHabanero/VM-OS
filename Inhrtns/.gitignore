@@ -1,0 +1,6 @@
+build/
+.idea/
+cmake-build-debug/
+.vscode/
+a.out
+inh_1.odp
